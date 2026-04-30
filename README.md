@@ -1,5 +1,5 @@
 [![CI](https://github.com/HTWDEVRU/pi-polza-ai-provider/workflows/CI/badge.svg)](https://github.com/HTWDEVRU/pi-polza-ai-provider/actions)
-![npm](https://img.shields.io/npm/v/@HTWDEVRU/pi-polza-ai-provider)
+![npm](https://img.shields.io/npm/v/@htwdev/pi-polza-ai-provider)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # pi-polza-ai-provider
