@@ -1,6 +1,6 @@
 {
-  "name": "@feniix/pi-polza-ai-provider",
-  "version": "0.1.0",
+  "name": "@htwdev/pi-polza-ai-provider",
+  "version": "0.1.1",
   "description": "pi extension for Polza.AI provider — dynamically loads chat models",
   "type": "module",
   "main": "./index.ts",
