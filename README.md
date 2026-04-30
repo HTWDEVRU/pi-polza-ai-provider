@@ -1,4 +1,4 @@
-[![CI](https://github.com/HTWDEVRU/pi-polza-ai-provider/workflows/CI/badge.svg)](https://github.com/FeniixRU/pi-polza-ai-provider/actions)
+[![CI](https://github.com/HTWDEVRU/pi-polza-ai-provider/workflows/CI/badge.svg)](https://github.com/HTWDEVRU/pi-polza-ai-provider/actions)
 ![npm](https://img.shields.io/npm/v/@HTWDEVRU/pi-polza-ai-provider)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -16,7 +16,7 @@
 
 ```bash
 pi install git:github.com/HTWDEVRU/pi-polza-ai-provider
-pi install npm:@feniix/pi-polza-ai-provider --version latest
+pi install npm:@HTWDEVRU/pi-polza-ai-provider --version latest
 ```
 
 Или вручную:
