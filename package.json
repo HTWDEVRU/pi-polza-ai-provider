@@ -1,6 +1,6 @@
 {
   "name": "@htwdev/pi-polza-ai-provider",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "pi extension for Polza.AI provider — dynamically loads chat models",
   "type": "module",
   "main": "./index.ts",
