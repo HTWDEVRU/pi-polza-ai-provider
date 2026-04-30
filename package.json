@@ -1,0 +1,56 @@
+{
+  "name": "@feniix/pi-polza-ai-provider",
+  "version": "0.1.0",
+  "description": "pi extension for Polza.AI provider — dynamically loads chat models",
+  "type": "module",
+  "main": "./index.ts",
+  "exports": {
+    ".": {
+      "import": "./index.ts"
+    }
+  },
+  "files": [
+    "index.ts",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "pi",
+    "pi-extension",
+    "polza-ai",
+    "provider"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTWDEVRU/pi-polza-ai-provider.git"
+  },
+  "author": "Игорь Пищулин <n1phantom@gmail.com>",
+  "license": "MIT",
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "lint": "tsc --noEmit",
+    "dry": "npm pack --dry-run",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@mariozechner/pi-coding-agent": "^0.69.0",
+    "@types/node": "^22.0.0",
+    "@vitest/coverage-v8": "^4.1.5",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "publint": "^0.3.0",
+    "vitest": "^4.1.5"
+  }
+}
